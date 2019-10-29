@@ -1,0 +1,31 @@
+.DS_Store
+node_modules/
+dist/
+functions/lib/
+npm-debug.log
+yarn-error.log
+firebase-debug.log
+.firebase
+
+# Prerendered files
+prerender/**/*.html
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode
+
+# Python
+appengine/env
+appengine/lib
+
+# Functions
+.runtimeconfig.json
+
+# Nuxt
+frontend/static/sitemap.xml
+
+*debug.log
